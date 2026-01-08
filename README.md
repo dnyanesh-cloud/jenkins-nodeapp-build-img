@@ -128,7 +128,7 @@ git branch -M master
 git remote add origin <GITHUB-REPO-URL>
 git push origin master
 ```
-<img src="remote-host.png" width="600">
+
 ---
 
 ### Step 5: Setup GitHub Webhook
@@ -170,6 +170,7 @@ sudo docker images
 
 
 <img src="build-img.png" width="600">
+<img src="remote-host.png" width="600">
 ---
 
 ## Project 2: Run Docker Container Using Jenkins
